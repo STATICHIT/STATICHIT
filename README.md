@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!--欢迎字-->
+<!--动态打字效果->
 <h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到STATICHIT静砸的主页!&center=true&size=27"> </a>
-<!--miku动图-->
+<!--miku代码动图-->
   
 <div align=center>
   
