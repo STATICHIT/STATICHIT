@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **STATICHIT/STATICHIT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<!--欢迎字-->
+<h1 align="center"> <a href="https://sunguoqi.com/"> <img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);欢迎来到STATICHIT静砸的主页!&center=true&size=27"> </a>
+<!--miku动图-->
+  
+<div align=center>
+  
+ ![img](http://dl.weshineapp.com/gif/20170103/baef1dfb8895ef3d998fb683347bafa1.gif?id=baef1dfb8895ef3d998fb683347bafa1)
+</div>
+
+<div align="center"> <img src="https://github-profile-trophy.vercel.app/?username=STATICHIT" /> </div>
+<div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=STATICHIT" /> </div>
+<div align="center"> <img src="https://stats.justsong.cn/api/csdn?id=m0_62742402"> </div>
