@@ -16,7 +16,6 @@
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://box.sunguoqi.com/weixin_mp"><img src="https://img.shields.io/badge/WeChat-微信-SWAY2307" /></a>&emsp;
     <a href="https://blog.csdn.net/m0_62742402/"><img src="https://img.shields.io/badge/CSDN-论坛-fc5531" /></a>&emsp;
     <a href="https://space.bilibili.com/21936006/"><img src="https://img.shields.io/badge/Bilibili-B站-ff69b4" /></a>&emsp;
     <a href="https://www.zhihu.com/people/sa-jiao-xiao-neng-shou-80/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp;
