@@ -38,7 +38,6 @@
 <p>&emsp;&emsp;大家好，我是STATICHIT静砸。</p>
 <p>&emsp;&emsp;目前就读于吉首大学软件工程专业。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名前端工程师!</p>
-<p>&emsp;&emsp;我们正在让这个世界变得更加美好，通过代码的重复使用和延展构建完美体系。</p>
 <p><strong>&emsp;&emsp;We're making the world a better place. Through constructing elegant hierarchies for maximum code reuse and extensibility.</strong></p>
 <p>&emsp;&emsp;不努力怎么配得上心动的人</p>
 
