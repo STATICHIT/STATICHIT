@@ -34,7 +34,6 @@
 ### 🤺 About Me
 
 <!-- <img align="right" width="300" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" /> -->
-<img align="right" width="300" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/man.png"/>
 <p>&emsp;&emsp;大家好，我是STATICHIT静砸。</p> 
 <p>&emsp;&emsp;目前就读于吉首大学软件工程专业。</p>
 <p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名前端工程师!<img src="https://wx4.sinaimg.cn/large/006ahuzrly1gf1b9zd3bzg305x037gmc.gif" height="30" /></p>
