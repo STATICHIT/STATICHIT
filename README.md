@@ -1,10 +1,7 @@
 <div align="center">
+
   <!-- dynamic typing effect 动态打字效果 -->
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);欢迎来到STATICHIT静砸的主页!!&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello%2C%20World%22);欢迎来到STATICHIT静砸的主页!!&center=true&size=27&vCenter=true)](https://blog.sunguoqi.com/)
 
 <!--miku代码动图-->
   
@@ -26,22 +23,21 @@
   
 </div>
 
-#  🙋 Hello
-<table>
-<tr><td>
+<!-- 整体居中容器 -->
+<div align="center">
 
 <!-- About me 关于我 -->
 ### 🤺 About Me
 
-<!-- <img align="right" width="300" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hi.gif" /> -->
 <p>&emsp;&emsp;大家好，我是STATICHIT静砸。</p> 
-<p>&emsp;&emsp;目前就读于吉首大学软件工程专业大四。</p>
-<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深前端工程师!<img src="https://wx4.sinaimg.cn/large/006ahuzrly1gf1b9zd3bzg305x037gmc.gif" height="30" /></p>
+<p>&emsp;&emsp;目前就读于吉首大学软件工程专业<del>大四</del> <strong>「更新！目前是已工作半年版」</strong>。</p>
+<p>&emsp;&emsp;热爱计算机科学和IT互联网事业，励志成为一名资深前端工程师!
+  <img src="https://wx4.sinaimg.cn/large/006ahuzrly1gf1b9zd3bzg305x037gmc.gif" height="30" />
+</p>
 <p><strong>&emsp;&emsp;The world cannot be short of programmers.</strong></p>
 <p>&emsp;&emsp;不努力怎么配得上心动的人</p>
 
-</td></tr>
-</table>
+</div>
 
 
 <!-- ########################################## 分割 ########################################## -->
@@ -54,13 +50,8 @@
 <!--  skill badge 技能徽章 -->
 💪 正在学习
 
-![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
-![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
-[![Webpack](https://img.shields.io/badge/Webpack-3BC4F3?style=flat-square&logo=Webpack&logoColor=ffffff)](https://webpack.js.org/) 
-[![Node.js](https://img.shields.io/badge/Node.js-5D9741?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org/en/) 
 [![Docker](https://img.shields.io/badge/Docker-3AC1D0?style=flat-square&logo=Docker&logoColor=ffffff)](https://www.docker.com/) 
-![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 
   
 🧠 计划学习
@@ -78,6 +69,11 @@
 ![CSS3 Badge](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
 ![Vue.js Badge](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff&style=flat)
+![TypeScript Badge](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=flat)
+![React Badge](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=000&style=flat)
+[![Webpack](https://img.shields.io/badge/Webpack-3BC4F3?style=flat-square&logo=Webpack&logoColor=ffffff)](https://webpack.js.org/) 
+[![Node.js](https://img.shields.io/badge/Node.js-5D9741?style=flat-square&logo=Node.js&logoColor=ffffff)](https://nodejs.org/en/) 
+![Vite Badge](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff&style=flat)
 ![Linux Badge](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=000&style=flat)
 [![Sass](https://img.shields.io/badge/Sass-88C7D4?style=flat-square&logo=Sass&logoColor=ffffff)](https://sass-lang.com/) 
 ![Windows Badge](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=fff&style=flat)
@@ -122,6 +118,27 @@
 <!--
 <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/profile-3d-contrib/profile-night-rainbow.svg" />
 -->
+
+### 🛠️ 我的 AI 武器库
+
+#### 🔥 核心大模型
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-DA7756?style=for-the-badge&logo=anthropic&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=github&logoColor=white)
+![Composer](https://img.shields.io/badge/Composer-000000?style=for-the-badge&logo=adobe%20creative%20cloud&logoColor=white)
+
+#### 🤖 模型具体版本
+![GPT-4](https://img.shields.io/badge/GPT--4-000000?style=for-the-badge&logo=openai&logoColor=white)
+![GPT-4o](https://img.shields.io/badge/GPT--4o-000000?style=for-the-badge&logo=openai&logoColor=white)
+![Opus](https://img.shields.io/badge/Opus-DA7756?style=for-the-badge&logo=anthropic&logoColor=white)
+![Sonnet](https://img.shields.io/badge/Sonnet-DA7756?style=for-the-badge&logo=anthropic&logoColor=white)
+![Haiku](https://img.shields.io/badge/Haiku-DA7756?style=for-the-badge&logo=anthropic&logoColor=white)
+
+#### 💻 开发与工具
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-DA7756?style=for-the-badge&logo=anthropic&logoColor=white)
+![OpenClaude](https://img.shields.io/badge/OpenClaude-Community?style=for-the-badge&logo=anthropic&logoColor=white)
 </div>
 
 <!-- ########################################## 分割 ########################################## -->
